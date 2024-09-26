@@ -1,4 +1,15 @@
 # ENCORE_DJ80
 
 
-ABCD
+\title{Simulation}
+![image](https://github.com/user-attachments/assets/bbdf1890-b078-4aa1-ab71-cce0a1954693)
+
+
+\title{Schematic Diagram}
+![image](https://github.com/user-attachments/assets/56c75f65-8d16-40d2-8771-7bba3566741a)
+
+
+\title{PCB Design}
+![image](https://github.com/user-attachments/assets/868514d6-be3a-4360-83ed-0383e98a57b3)
+
+
